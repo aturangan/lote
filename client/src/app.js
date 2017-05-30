@@ -17,14 +17,11 @@ ReactDOM.render(
 
 
 // import { render } from 'react-dom';  
-
 // import type { Store } from './types'; 
-
 // const store: Store = createStore(
 // 	reducers, 
 //   window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
 // ); 
-
 
 //ReactDOM.render(<h1>Hello World from React</h1>, document.getElementById('root'));
 
